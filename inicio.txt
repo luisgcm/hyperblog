@@ -2,5 +2,5 @@ Estamos editando por primera vez.
 Curso Profesional de Git y GitHub.
 Video: 12 Volver en el tiempo en nuestro repositorio utilizando branches 
 y checkout
-Hoy hablaremos de su vida :D new
+Hoy hablaremos de su vida :D new1 y su maestría :D new2
 
