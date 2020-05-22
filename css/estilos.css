@@ -4,3 +4,12 @@ body{
     color: deeppink;
     background-color: black;
 }
+h3{
+    color: chartreuse;
+    font-weight: bold;
+
+}
+
+p{
+    background-color: cyan;
+}
